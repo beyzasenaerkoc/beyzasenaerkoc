@@ -3,10 +3,6 @@
 
 
 
-- 🔭 I’m currently working on React.js and Meteor.js.
-- 🌱 I’m currently learning Vue.js.
-- 💬 You can ask me about the software.
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=beyzasenaerkoc" alt="beyzasenaerkoc" /></a> </p>
 
 <p align="center">
