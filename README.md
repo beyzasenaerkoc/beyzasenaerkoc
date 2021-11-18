@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sena</h1>
-<h3 align="center">A Software Developer from Adana/Turkey</h3>
+<h3 align="center">A Software Developer from Turkey</h3>
 
 
 
