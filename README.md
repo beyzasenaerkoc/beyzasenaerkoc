@@ -2,11 +2,11 @@
 <h3 align="center">A Software Developer from Turkey</h3>
 
 
--  🌱 I’m currently learning Python, Deep learning
+- I’m currently learning Python, Deep learning
 
--  🙃 I also know HTML, CSS, Bootstrap, MS SQL, Firebase,
+- I also know HTML, CSS, Bootstrap, MS SQL, Firebase,
 
--  😮 Beginner of  Blender, Photoshop, Unity
+- Beginner of  Blender, Photoshop, Unity
                     Flutter, Dart               
                     C, Qt
 
