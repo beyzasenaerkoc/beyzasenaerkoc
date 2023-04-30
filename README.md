@@ -16,13 +16,7 @@
 <a href="https://www.linkedin.com/in/beyza-sena-erko%C3%A7-3892451ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsenator" height="30" width="40" /></a><a href="https://stackoverflow.com/users/21781870/sena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bsenator" height="30" width="40" /></a> <a href="https://www.hackerrank.com/bsenator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bsenator" height="30" width="40" /><a href="https://medium.com/@beyzasenaerkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzasenaerkoc" height="30" width="40" /></a>
 </p>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsenator" alt="bsenator" /></a> </p>
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsenator&label=Profile%20views&color=0e75b6&style=flat" alt="bsenator" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
