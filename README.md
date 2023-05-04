@@ -6,8 +6,8 @@
 
 - I also know HTML, CSS, Bootstrap, MS SQL, Firebase,
 
-- Beginner of  Blender, Photoshop, Unity
-                    Flutter, Dart               
+- Beginner of  Blender, Photoshop, Unity <br>
+                    Flutter, Dart            <br>   
                     C, Qt
 
 
