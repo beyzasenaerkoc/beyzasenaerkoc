@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Turkey</h3>
 
 
-- I’m currently learning React.js, Next.js 
+- I’m currently learning React.js, MongoDB, Express.js, Next.js 
   
 - I also know HTML, CSS, Bootstrap, MS SQL, Firebase, Python, Deep learning
 
